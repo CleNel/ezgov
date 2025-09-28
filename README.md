@@ -1,0 +1,1 @@
+This project automates the extraction of text from the U.S. Congress Daily Digest to generate concise legislative updates
